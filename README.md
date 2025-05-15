@@ -60,6 +60,4 @@ License plate recognition (using camera + ML)
 🎓 Developed For :
 This project was created as part of an academic curriculum to demonstrate embedded systems and automation principles.
 
-🧑‍💻 Author :
-
-Sudesh Tonpe
+🧑‍💻 Author :   Sudesh Tonpe
