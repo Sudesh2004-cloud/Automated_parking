@@ -14,7 +14,8 @@ LEDs – to indicate status (optional)
 
 LCD Display (optional) – to show number of available spots
 
-Jumper wires, Breadboard, Power Supply
+Jumper wires, Breadboard, Power Supply.
+
 
 ⚙️ Features
 Automatic gate opens/closes based on vehicle presence
@@ -24,6 +25,7 @@ Real-time vehicle count monitoring
 Prevents overfilling of parking lot
 
 Compact and energy efficient
+
 
 
 🚀 Getting Started
@@ -42,6 +44,8 @@ A counter keeps track of the number of cars inside.
 
 If parking is full, the gate does not open and an LED or message can indicate "Full".
 
+
+
 📈 Future Improvements
 Integrate with IoT for remote monitoring
 
@@ -51,8 +55,11 @@ Display available slots in real-time
 
 License plate recognition (using camera + ML)
 
-🎓 Developed For
+
+
+🎓 Developed For :
 This project was created as part of an academic curriculum to demonstrate embedded systems and automation principles.
 
-🧑‍💻 Author
+🧑‍💻 Author :
+
 Sudesh Tonpe
